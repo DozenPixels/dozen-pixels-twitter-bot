@@ -4,7 +4,7 @@
   "description": "twitter bot bootstrap",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "worker: node bot.js"
   },
   "author": "",
   "license": "MIT",
