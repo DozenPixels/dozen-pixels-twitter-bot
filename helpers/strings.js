@@ -1,9 +1,10 @@
 module.exports = {
     queryString: [
-        'web design',
-        'small business marketing',
-        'chicago marketing help',
-        'chicago build a website'
+        'webdesign',
+        'smallbusinessmarketing',
+        'chicagomarketinghelp',
+        'chicagosmallbusiness',
+        'chicagowebdesign'
     ],
     queryStringSubQuery: [
         ''
