@@ -1,12 +1,13 @@
 module.exports = {
     queryString: [
-        '',
-        '',
-        ''
+        'chicago need website',
+        'cheap website',
+        'web design',
+        'small business marketing',
+        'chicago marketing help',
+        'chicago build a website'
     ],
     queryStringSubQuery: [
-        '',
-        '',
         ''
     ],
     resultType: [

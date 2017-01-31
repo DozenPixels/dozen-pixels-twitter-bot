@@ -11,5 +11,13 @@
   "dependencies": {
     "twit": "^2.2.5",
     "unique-random-array": "^1.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DozenPixels/twitter-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DozenPixels/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/DozenPixels/twitter-bot#readme"
 }
